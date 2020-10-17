@@ -1,4 +1,4 @@
-### Recent posts from [my blog](https://vinta.ws/code/)
+### Recent Posts from [I Failed the Turing Test](https://vinta.ws/code/)
 
 - [How HTTPS Works in Layman's Terms - TLS 1.2 and 1.3](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
 - [The Incomplete Guide to Google Kubernetes Engine](https://vinta.ws/code/the-complete-guide-to-google-kubernetes-engine-gke.html)
