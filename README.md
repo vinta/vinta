@@ -6,6 +6,7 @@
 - [Build a recommender system with Spark: Implicit ALS](https://vinta.ws/code/build-a-recommender-system-with-pyspark-implicit-als.html)
 - [Locking and MVCC in MySQL InnoDB 鎖機制與多版本並發控制](https://vinta.ws/code/locking-and-mvcc-in-mysql-innodb.html)
 
-### [Contact Me](https://www.linkedin.com/in/vinta/)
+### Contact Me
 
-I'm looking for remote job opportunities of web backend development.
+- Twitter: [@vinta](https://twitter.com/vinta)
+- LinkedIn: [Vinta Chen](https://www.linkedin.com/in/vinta/)
